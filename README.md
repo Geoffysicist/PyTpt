@@ -13,6 +13,7 @@ A template which provides the structure for Python 3 projects enabling:
 ## File Structure
 This template has the following file structure based on the structure recommended by [Kenneth Reitz, Repository Structure and Python](https://kenreitz.org/essays/repository-structure-and-python)
 
+```
 package_name
 ├── README.md
 ├── LICENSE
@@ -30,6 +31,7 @@ package_name
 └── tests
   ├── test_module1.py
   └── test_module2.py
+```
 
 ## Resources
 For more information consult:
