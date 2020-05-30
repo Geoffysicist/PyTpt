@@ -8,6 +8,7 @@ examples.
   Typical usage example:
 
   foo = SampleClass()
+  
   bar = foo.public_method(required_variable, optional_variable=42)
 """
 
