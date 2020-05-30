@@ -23,13 +23,13 @@ package_name
 │ ├── make.bat
 │ ├── Makefile
 │ └── source
-├── module1_name
-│ └── module1_name.py
+├── module1
+│ └── module1.py
 ├── module2_name
-│ └── module2_name.py
+│ └── module2.py
 └── tests
-  ├── test_module1_name.py
-  └── test_module2_name.py
+  ├── test_module1.py
+  └── test_module2.py
 
 ## Resources
 For more information consult:
