@@ -42,6 +42,7 @@ For more information consult:
 * [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
 * [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 * [Repository Structure and Python](https://kenreitz.org/essays/repository-structure-and-python)
+* [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code)
 
 
 ## NOTES
