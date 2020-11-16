@@ -15,27 +15,29 @@ examples.
 class SampleClass(object):
     """Summary of class here.
 
-    Longer class information....
+    Longer class information after leaving a line...
     
     Attributes:
-        likes_spam: A boolean indicating if we like SPAM or not.
-        eggs: An integer count of the eggs we have laid.
+        likes_spam (type): indicates if we like SPAM or not.
+        eggs (type): count of the eggs we have eaten.
     """
 
     def __init__(self, likes_spam=False):
         """Inits SampleClass with blah."""
-        self.likes_spam = likes_spam
-        self.eggs = 0
+        self._likes_spam = likes_spam
+        self._eggs = 0
 
     def public_method(self):
-        """Longer description of desired functionality
+        """"""Short description.
+        
+        Longer description of desired functionality
 
         Args:
-            required_variable: A required argument
-            optional_variable: An optional argument
+            required_variable (type): A required argument
+            optional_variable (type): An optional argument
 
         Returns:
-            None: but if it did you would describe it here
+            type: nothing but if it did you would describe it here
 
         Raises:
             NoError: but if it did you would describe it here
@@ -48,11 +50,11 @@ def function_name(required_variable, optional_variable=None):
     Longer description of desired functionality
 
     Args:
-        required_variable: A required argument
-        optional_variable: An optional argument
+        required_variable (type): A required argument
+        optional_variable (type): An optional argument
 
     Returns:
-        None: but if it did you would describe it here
+        type: nothing but if it did you would describe it here
 
     Raises:
         NoError: but if it did you would describe it here
