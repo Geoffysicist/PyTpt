@@ -27,10 +27,17 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
 
-## Versions
+## Versions and Releases
+
+### Versions
 x.y.z
+
  x - major version when you make incompatible API change
  y - minor version when you add functionality in a backwards compatible manner
  z - patch version when you make backwards compatible bug fixes
 
 for more details see [Semantic Versioning 2.0.0](https://semver.org/#semantic-versioning-200)
+
+### Releases
+
+[Managing releases in a repository](https://docs.github.com/en/github/administering-a-repository/managing-releases-in-a-repository)
