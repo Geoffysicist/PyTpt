@@ -45,3 +45,7 @@ for more details see [Semantic Versioning 2.0.0](https://semver.org/#semantic-ve
 # Documentation with Material for Mkdocs
 
 [Creating your site](https://squidfunk.github.io/mkdocs-material/creating-your-site/#minimal-configuration)
+
+# Making PyPi packages
+
+[Packaging Python Projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
