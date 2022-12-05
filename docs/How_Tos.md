@@ -41,3 +41,6 @@ for more details see [Semantic Versioning 2.0.0](https://semver.org/#semantic-ve
 ### Releases
 
 [Managing releases in a repository](https://docs.github.com/en/github/administering-a-repository/managing-releases-in-a-repository)
+
+#Documentation with Material for Mkdocs
+[Creating your site](https://squidfunk.github.io/mkdocs-material/creating-your-site/#minimal-configuration)
