@@ -1,4 +1,4 @@
-# Prof Stick's Mostly Good Python Project Template
+# Geoffysicists's Mostly Good Python Project Template
 
 A template which provides the structure for Python 3 projects enabling:
 * creation of modules
