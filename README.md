@@ -1,4 +1,4 @@
-# Geoffysicists's Mostly Good Python Project Template
+# Geoffysicist's Mostly Good Python Project Template
 
 A template which provides the structure for Python 3 projects enabling:
 * creation of modules
